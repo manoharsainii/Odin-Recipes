@@ -33,9 +33,4 @@ Homemade pizza is a delightful and customizable dish that you can easily prepare
 ## 🤝 Contributing
 
 We welcome contributions to the Odin Recipes project! If you have a recipe that you would like to share, please feel free to submit a pull request. Make sure to follow the existing format and include all necessary details for the recipe.
-
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 Happy cooking! 🍳
